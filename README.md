@@ -70,7 +70,4 @@
   <a href="mailto:ebranursyr@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="[https://github.com/nrebra](https://github.com/nrebra)" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
 </p>
