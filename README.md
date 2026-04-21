@@ -1,53 +1,66 @@
-<h1 align="center">Merhaba! Ben Ebra Nur 👋</h1>
-<h3 align="center">Bilgisayar Mühendisi | Yapay Zeka ⚙️ | Mobil 📱 | Web 🌐</h3>
+<h1 align="center">Ebra Nur 👋</h1>
+
+<h3 align="center">
+Computer Engineer | AI Engineer | Mobile Developer
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nrebra&label=Profil%20Görüntülenmeleri&color=0e75b6&style=flat" alt="Profil Görüntülenmeleri" />
+  Passionate about Artificial Intelligence, Mobile Development and Scalable Systems
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Bilgisayar Mühendisiyim  
-- 🧠 Yapay zeka projelerinde **görüntü işleme**, **segmentasyon** ve **sağlık teknolojileri** üzerine çalışıyorum  
-- 📱 **Flutter** ve **React Native** ile mobil uygulamalar geliştiriyorum  
-- 💻 **Node.js**, **Flask**, **Firebase**, **MySQL** ile full-stack projeler geliştiriyorum  
-- 🔬 Veri bilimi, veri görselleştirme ve modelleme ile ilgileniyorum  
-- 🤝 Açık kaynak projelere katkı sağlamak istiyorum  
-
-📫 **İletişim:** ebranursyr@gmail.com  
+🎓 Computer Engineering background  
+🧠 Focused on **Artificial Intelligence & Computer Vision**  
+📱 Mobile developer specializing in **Flutter (Dart)** and **React Native (TypeScript)**  
+💻 Full-stack development using **JavaScript / TypeScript / Node.js**  
+🔬 Interested in **Data Science, ML models and real-world AI applications**  
+⚙️ Building production-level mobile and backend systems  
+🤝 Open to collaboration and innovative projects  
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"/>
-  <img src="https://reactnative.dev/img/header_logo.svg" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" height="40"/>
-</p>
+### 👨‍💻 Languages
+- Python  
+- Dart  
+- JavaScript  
+- TypeScript  
+- Java  
+- C  
+
+### 📱 Mobile Development
+- Flutter (Dart)  
+- React Native (TypeScript / JavaScript)  
+
+### ⚙️ Backend Development
+- Node.js  
+- Flask  
+- Firebase  
+- REST APIs  
+
+### 🤖 AI / Data
+- TensorFlow  
+- OpenCV  
+- NumPy / Pandas  
+- Computer Vision  
+- Data Analysis  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nrebra&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrebra&layout=compact&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nrebra&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrebra&layout=compact&theme=radical" height="160"/>
 </p>
 
 ---
 
-## 🏆 Achievements
+## 🏆 Activity
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nrebra&theme=monokai" />
@@ -55,13 +68,14 @@
 
 ---
 
-## 🔗 Connect With Me
+## 📫 Contact
+
+- 📧 Email: ebranursyr@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/ebranur-sayar/  
+- 💻 GitHub: https://github.com/nrebra  
+
+---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ebranur-sayar/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:ebranursyr@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+⚡ Always building, always learning ⚡
 </p>
