@@ -75,7 +75,7 @@ Hello! I'm Ebra Nur, a Computer Engineer passionate about **Artificial Intellige
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nrebra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="150"/>
+  <img src="[https://github-readme-stats.vercel.app/api?username=nrebra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="150](https://github-readme-stats.vercel.app/api?username=nrebra&show_icons=true&theme=tokyonight)"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrebra&layout=compact&langs_count=8&theme=tokyonight" height="150"/>
 </p>
 
